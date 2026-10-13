@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Carta dei tarocchi">
+  <g fill="none" stroke="#e53170" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="30" y="18" width="60" height="84" rx="6"/>
+    <rect x="37" y="25" width="46" height="70" rx="3" stroke="#a7a0c5" stroke-width="1.5"/>
+    <path d="M60 40 C52 52 52 62 60 72 C68 62 68 52 60 40 Z" stroke="#ff8906"/>
+    <circle cx="60" cy="56" r="3" fill="#ff8906" stroke="none"/>
+    <path d="M45 82 H75" stroke="#a7a0c5" stroke-width="1.5"/>
+  </g>
+</svg>

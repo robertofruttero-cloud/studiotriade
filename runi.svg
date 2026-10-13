@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Runi">
+  <g fill="none" stroke="#e53170" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="36" cy="72" rx="16" ry="20"/>
+    <ellipse cx="60" cy="56" rx="16" ry="20" stroke="#ff8906"/>
+    <ellipse cx="84" cy="74" rx="16" ry="20"/>
+    <path d="M36 66 V80 M30 70 L36 76 L42 70" stroke="#a7a0c5" stroke-width="2"/>
+    <path d="M60 46 L66 56 L60 66 L54 56 Z" stroke="#a7a0c5" stroke-width="2"/>
+    <path d="M78 66 L90 82 M90 66 L78 82" stroke="#a7a0c5" stroke-width="2"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Fisiognomica">
+  <g fill="none" stroke="#e53170" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M36 28 C36 14 84 14 84 28 V58 C84 84 74 98 60 98 C46 98 36 84 36 58 Z"/>
+    <path d="M44 48 Q50 44 56 48" stroke="#a7a0c5"/>
+    <path d="M64 48 Q70 44 76 48" stroke="#a7a0c5"/>
+    <circle cx="50" cy="56" r="2.5" fill="#ff8906" stroke="none"/>
+    <circle cx="70" cy="56" r="2.5" fill="#ff8906" stroke="none"/>
+    <path d="M60 60 V74 H55" stroke="#a7a0c5"/>
+    <path d="M50 84 Q60 90 70 84"/>
+    <path d="M26 34 L34 34 M86 34 L94 34" stroke="#a7a0c5" stroke-width="1.5"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Rune celtiche">
+  <g fill="none" stroke="#e53170" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="16" y="26" width="26" height="68" rx="4" stroke="#a7a0c5" stroke-width="1.5"/>
+    <rect x="47" y="26" width="26" height="68" rx="4"/>
+    <rect x="78" y="26" width="26" height="68" rx="4" stroke="#a7a0c5" stroke-width="1.5"/>
+    <path d="M60 38 V82 M60 48 L70 58 M60 60 L70 70"/>
+    <path d="M29 40 L23 52 L35 64 M29 40 V82" stroke="#a7a0c5" stroke-width="2"/>
+    <path d="M91 40 L99 52 L91 64 L99 76 M91 40 V82" stroke="#a7a0c5" stroke-width="2"/>
+  </g>
+</svg>

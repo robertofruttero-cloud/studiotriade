@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Esempio di tema natale">
+  <g fill="none" stroke="#e53170" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="60" cy="60" r="54" stroke="#a7a0c5" stroke-width="1.5"/>
+    <circle cx="60" cy="60" r="40" stroke="#a7a0c5" stroke-width="1"/>
+    <circle cx="60" cy="60" r="22"/>
+    <path d="M100.0 60.0 L114.0 60.0" stroke="#a7a0c5" stroke-width="1"/>
+    <path d="M94.6 80.0 L106.8 87.0" stroke="#a7a0c5" stroke-width="1"/>
+    <path d="M80.0 94.6 L87.0 106.8" stroke="#a7a0c5" stroke-width="1"/>
+    <path d="M60.0 100.0 L60.0 114.0" stroke="#a7a0c5" stroke-width="1"/>
+    <path d="M40.0 94.6 L33.0 106.8" stroke="#a7a0c5" stroke-width="1"/>
+    <path d="M25.4 80.0 L13.2 87.0" stroke="#a7a0c5" stroke-width="1"/>
+    <path d="M20.0 60.0 L6.0 60.0" stroke="#a7a0c5" stroke-width="1"/>
+    <path d="M25.4 40.0 L13.2 33.0" stroke="#a7a0c5" stroke-width="1"/>
+    <path d="M40.0 25.4 L33.0 13.2" stroke="#a7a0c5" stroke-width="1"/>
+    <path d="M60.0 20.0 L60.0 6.0" stroke="#a7a0c5" stroke-width="1"/>
+    <path d="M80.0 25.4 L87.0 13.2" stroke="#a7a0c5" stroke-width="1"/>
+    <path d="M94.6 40.0 L106.8 33.0" stroke="#a7a0c5" stroke-width="1"/>
+    <circle cx="60" cy="60" r="3" fill="#ff8906" stroke="none"/>
+    <circle cx="92" cy="50" r="4" fill="#e53170" stroke="none"/>
+    <circle cx="34" cy="78" r="3" fill="#ff8906" stroke="none"/>
+    <path d="M60 60 L92 50 M60 60 L34 78" stroke="#e53170" stroke-width="1" opacity="0.7"/>
+  </g>
+</svg>

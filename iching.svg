@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="I Ching">
+  <g fill="none" stroke="#e53170" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M20 24 H52 M68 24 H100" stroke="#e53170"/>
+    <path d="M20 44 H100" stroke="#a7a0c5"/>
+    <path d="M20 64 H52 M68 64 H100" stroke="#e53170"/>
+    <path d="M20 84 H52 M68 84 H100" stroke="#e53170"/>
+    <path d="M20 104 H100" stroke="#a7a0c5"/>
+  </g>
+</svg>

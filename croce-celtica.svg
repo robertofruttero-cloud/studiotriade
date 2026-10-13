@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Croce celtica">
+  <g fill="none" stroke="#e53170" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="60" cy="60" r="34" stroke="#a7a0c5" stroke-width="1.5"/>
+    <circle cx="60" cy="60" r="12"/>
+    <path d="M60 14 V106 M14 60 H106" stroke="#a7a0c5" stroke-width="1.5"/>
+    <circle cx="60" cy="26" r="5" fill="#e53170" stroke="none"/>
+    <circle cx="60" cy="94" r="5" fill="#e53170" stroke="none"/>
+    <circle cx="26" cy="60" r="5" fill="#e53170" stroke="none"/>
+    <circle cx="94" cy="60" r="5" fill="#e53170" stroke="none"/>
+  </g>
+</svg>

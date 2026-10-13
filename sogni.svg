@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Interpretazione dei sogni">
+  <g fill="none" stroke="#e53170" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M70 22 A40 40 0 1 0 98 80 A32 32 0 1 1 70 22 Z"/>
+    <circle cx="36" cy="36" r="2.5" fill="#ff8906" stroke="none"/>
+    <circle cx="92" cy="30" r="2" fill="#a7a0c5" stroke="none"/>
+    <circle cx="96" cy="56" r="2.5" fill="#ff8906" stroke="none"/>
+    <path d="M26 88 H44 M32 82 V94" stroke="#a7a0c5" stroke-width="1.5"/>
+  </g>
+</svg>
